@@ -26,6 +26,7 @@ Here are links to jupyter lab tutorials for all the aforementioned scenarios:
 12) User creates an RTMA Temperature plot and an 24 Hour RTMA Temperature Comparison graphic for Hawaii. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/Hawaii_RTMA_Temperature_Example.ipynb)
 13) User creates graphics for the NWS Maximum Temperature and NWS Minimum Relative Humidity Forecast for Alaska. -[click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_AK_example.ipynb)
 14) User creates a few graphics for the NWS Forecast for the NWS Juneau Domain. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_AJK_example.ipynb)
-15) User creates a couple of NWS Forecast graphics for Hawaii. [click here]((https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_HI_example.ipynb))
+15) User creates a couple of NWS Forecast graphics for Hawaii. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_HI_example.ipynb)
 16) User creates a few graphics of the NWS Forecast for Oahu. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_Oahu_example.ipynb)
+17) User creates a few time cross-section forecasts for KABR. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/KABR_cross_section.ipynb)
 
