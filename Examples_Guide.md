@@ -31,5 +31,5 @@ Here are links to jupyter lab tutorials for all the aforementioned scenarios:
 15) User creates a couple of NWS Forecast graphics for Hawaii. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_HI_example.ipynb)
 16) User creates a few graphics of the NWS Forecast for Oahu. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NWS_Oahu_example.ipynb)
 17) User creates a few time cross-section forecasts for KABR. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/KABR_cross_section.ipynb)
-18) User creates a NAM and RAP time cross-section forecast for the custom latitude and longitude of Lake Ontario's LO1 buoy to analuze the Lake-Effect Snow potential - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/LO1_cross_section.ipynb)
+18) User creates a NAM and RAP time cross-section forecast for the custom latitude and longitude of Lake Ontario's LO1 buoy to analyze the Lake-Effect Snow potential - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/LO1_cross_section.ipynb)
 
