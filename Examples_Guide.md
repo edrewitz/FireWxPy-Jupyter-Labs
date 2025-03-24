@@ -13,4 +13,22 @@ script they are running.
 
 Here are links to jupyter lab tutorials for all the aforementioned scenarios:
 
+1) In this example, we are a first time FireWxPy user (automatic first time user set-up) and we make a plot of the latest RTMA RH data across California. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/first_time_user.ipynb)
+2) In this example, we will make a medley of RTMA graphics across the NWS Alaska Region. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/multi_rtma.ipynb)
+3) In this example, we will make two RTMA plots using custom decimal degree lat/lon bounds. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/rtma_custom.ipynb)
+4) In this example, we will make a set of the National Weather Service Maximum Relative Humidity Forecast across Texas. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/nws_maxrh.ipynb)
+5) In this example, we will make a set of the National Weather Service Maximum Relative Humidity Trend Forecast and National Weather Service Minimum Relative Humidity Trend Forecast graphics using custom decimal degree lat/lon boundaries. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/nws_custom.ipynb)
+6) In this example, we will make a plot of the METAR Observations across CONUS. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/metars.ipynb)
+7) In this example, we will make a set of plots showing relative humidity, temperature and wind speed as scatter plots for CONUS and New York State. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/scatter_obs.ipynb)
+8) In this example, we will grid the relative, temperature and wind speed METAR observations for the South Ops Geographic Area. We also change our reference system to see the data from the GACC reference. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/gridded_obs.ipynb)
+9) In this example, we will make a set of NAM Forecast 500mb Height/Vorticity/Wind graphics for CONUS. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/500mb_vorticity.ipynb)
+10) In this example, we will make a GFS and NAM time cross-section forecast for Aberdeen, SD. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/KABR_cross_section.ipynb)
+11) In this example, we will make NAM and RAP time cross-sections using a custom point over Lake-Ontario to analyze the snow potential at SUNY Oswego (my alma mater). - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/LO1_cross_section.ipynb)
+12) In this example, we will make a RAP cross-section between one point of lat/lon on the west coast and another point of lat/lon on the east coast. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/cross_section_two_points.ipynb)
+13) In this example, we will make plots of the SPC Convective Outlook and SPC Critical Fire Weather Risk Outlook for CONUS. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/spc.ipynb)
+14) In this example, we will plot the daily solar information for Riverside, CA. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/solar_info.ipynb)
+15) In this example, we will make a daily weather summary for Ontario International Airport (KONT). - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/KONT_Daily_Weather_Summary_Example.ipynb)
+16) In this example, we will plot the Santa-Ana Wildfire Threat Index from Rolinski et al. 2016. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/sawti.ipynb)
+17) In this example, we will plot the latest observed sounding from NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NKX_Sounding_Example.ipynb)
+18) In this example, we will plot an observed sounding for a custom date/time to analyze Santa Ana Winds at NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/Santa_Ana_Wind_Sounding.ipynb)
 
