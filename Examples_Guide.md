@@ -31,4 +31,5 @@ Here are links to jupyter lab tutorials for all the aforementioned scenarios:
 16) In this example, we will plot the Santa-Ana Wildfire Threat Index from Rolinski et al. 2016. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/sawti.ipynb)
 17) In this example, we will plot the latest observed sounding from NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NKX_Sounding_Example.ipynb)
 18) In this example, we will plot an observed sounding for a custom date/time to analyze Santa Ana Winds at NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/Santa_Ana_Wind_Sounding.ipynb)
+19) In this example, we will analyze the Red Flag Warning conditions in the Southeastern CONUS using the RTMA Critical Fire Weather graphics. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/rtma_rfw.ipynb)
 
