@@ -32,4 +32,5 @@ Here are links to jupyter lab tutorials for all the aforementioned scenarios:
 17) In this example, we will plot the latest observed sounding from NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/NKX_Sounding_Example.ipynb)
 18) In this example, we will plot an observed sounding for a custom date/time to analyze Santa Ana Winds at NKX. [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/Santa_Ana_Wind_Sounding.ipynb)
 19) In this example, we will analyze the Red Flag Warning conditions in the Southeastern CONUS using the RTMA Critical Fire Weather graphics. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/rtma_rfw.ipynb)
+20) In this example, we will create a Critical Fire Weather Forecast using the National Weather Service NDFD Grids for areas where Red Flag Warnings are in effect in Wyoming. - [click here](https://github.com/edrewitz/FireWxPy-Jupyter-Labs/blob/main/Tutorials/nws_critical_firewx12.ipynb)
 
